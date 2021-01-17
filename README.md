@@ -37,3 +37,11 @@ Happy Birthday Tirth Patel (aka Machine Learning) 18 January, 2021
 
 ## Apparently, this user prefers to keep an air of mystery about them.
 <img src="memories/8.jpeg" height="300px"></img>
+
+### Expected Rection from Tirth
+<img src="memories/tenor.gif" height="300px"></img>
+
+## The Reaction we got from Tirth
+<hr>
+To be filled by Tirth
+<hr>
