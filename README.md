@@ -22,3 +22,6 @@ Happy Birthday Tirth Patel (aka Machine Learning) 18 January, 2021
 
 ### Whenever we have some project, we are like..😂
 <img src="memories/GIF1.gif" width="600px"></img>
+
+## After this repo, GitHub be like..
+<img src="memories/asd.jpg" height="300px"></img>
