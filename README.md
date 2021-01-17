@@ -35,8 +35,6 @@ Happy Birthday Tirth Patel (aka Machine Learning) 18 January, 2021
 ## Tirth Kaise MangalSutra Pehenta hain?
 <img src="memories/IMG-20191017-WA0191.jpg" height="300px" loading="lazy"></img>
 
-<img src="memories/IMG-20191105-WA0003.jpg" height="300px" loading="lazy"></img>
-
 ## Ye Tirth Bhai ki Wife
 <img src="memories/IMG-20191105-WA0011.jpg" height="300px" loading="lazy"></img>
 
