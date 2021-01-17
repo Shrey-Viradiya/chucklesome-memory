@@ -45,6 +45,9 @@
 ### Sab log paise do haath mein aur gaana suno mera #MLAnthem
 <img src="memories/WhatsApp Image 2021-01-17 at 7.36.13 PM.jpeg" height="300px" loading="lazy"></img>
 
+### Aaj to maat padha itna bhaii
+<img src="memories/image1.jpeg" height="300px" loading="lazy"></img>
+
 ### Expected Rection from Tirth
 <img src="memories/tenor.gif" height="300px" loading="lazy"></img>
 
