@@ -26,8 +26,16 @@ Happy Birthday Tirth Patel (aka Machine Learning) 18 January, 2021
 ## After this repo, GitHub be like..
 <img src="memories/asd.jpg" height="300px" loading="lazy"></img>
 
+## Sleeping Talent by Tirth
+<img src="memories/IMG-20200312-WA0016.jpg" height="300px" loading="lazy"></img>
+
 ## Ye Tirth Bhai ki Girlfriend
 <img src="memories/2.jpeg" height="300px" loading="lazy"></img>
+
+## Tirth Kaise MangalSutra Pehenta hain?
+<img src="memories/IMG-20191017-WA0191.jpg" height="300px" loading="lazy"></img>
+
+<img src="memories/IMG-20191105-WA0003.jpg" height="300px" loading="lazy"></img>
 
 ## Ye Tirth Bhai ki Wife
 <img src="memories/IMG-20191105-WA0011.jpg" height="300px" loading="lazy"></img>
