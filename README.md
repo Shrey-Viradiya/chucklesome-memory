@@ -1,10 +1,9 @@
-# chucklesome-memory
-
-Happy Birthday Tirth Patel (aka Machine Learning) 18 January, 2021
-
-<img src="memories/Screenshot_2018-12-13-21-57-59-828_com.whatsapp.png" width="300px" loading="lazy"></img>
-
-<img src="memories/Screenshot_2018-12-13-21-58-11-669_com.whatsapp.png" width="300px" loading="lazy"></img>
+<h1 align="center">Happy Birthday Tirth Patel (aka Machine Learning) 18 January, 2021</h1>
+<p align="center">
+	<img src="memories/Screenshot_2018-12-13-21-57-59-828_com.whatsapp.png" width="300px" loading="lazy"></img>
+	<br>
+  <img src="memories/Screenshot_2018-12-13-21-58-11-669_com.whatsapp.png" width="300px" loading="lazy"></img>
+ </p>
 
 ## Drink Water You Foooool 💦💦💧💧🚿🚿🥤🥤🌊🌊🤽‍♀️🤽‍♀️🤽‍♂️🍉🍉
 
