@@ -25,3 +25,8 @@ Happy Birthday Tirth Patel (aka Machine Learning) 18 January, 2021
 
 ## After this repo, GitHub be like..
 <img src="memories/asd.jpg" height="300px"></img>
+
+## Ye Ashesh Bhai ki Girlfriend
+<img src="memories/2.jpeg" height="300px"></img>
+
+
