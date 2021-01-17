@@ -45,6 +45,11 @@
 ### Sab log paise do haath mein aur gaana suno mera #MLAnthem
 <img src="memories/WhatsApp Image 2021-01-17 at 7.36.13 PM.jpeg" height="300px" loading="lazy"></img>
 
+### Let me drink waterrrrrrrr 💦💧💧🚿🚿🥤🥤
+<img src="memories/image.jpeg" height="300px" loading="lazy"></img>
+
+### You tooo drink waterrrr idiotttt 💦💧🥤
+
 ### Aaj to maat padha itna bhaii
 <img src="memories/image1.jpeg" height="300px" loading="lazy"></img>
 
