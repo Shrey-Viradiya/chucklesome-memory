@@ -19,3 +19,6 @@ Happy Birthday Tirth Patel (aka Machine Learning) 18 January, 2021
 ### Aag lage basti me 🔥🔥🔥, main apni masti me 🎈🎉😂😁😹
 
 <img src="memories/IMG-20200119-WA0000.jpg" width="600px"></img>
+
+### Whenever we have some project, we are like..😂
+<img src="memories/GIF1.gif" width="600px"></img>
