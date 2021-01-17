@@ -34,3 +34,6 @@ Happy Birthday Tirth Patel (aka Machine Learning) 18 January, 2021
 
 ## Aur ye Ashesh Bhai ki Wife ka Aashiq (Aadha kata hua)
 <img src="memories/1.jpeg" height="300px"></img>
+
+## Apparently, this user prefers to keep an air of mystery about them.
+<img src="memories/8.jpeg" height="300px"></img>
