@@ -11,3 +11,5 @@ Happy Birthday Tirth Patel (aka Machine Learning) 18 January, 2021
 <hr>
 
 ### There's one thing that will help you live well 🧬🧬 and experience a long life, and that's ageing. So, don't be afraid to age 🔞🔞, this is the best prescription for a long life! Happy 😄😄 birthday 🎂🎂 to a wonderful friend of ours.
+
+<img src="memories/IMG-20190919-WA0013.jpg" width="200px"></img>
